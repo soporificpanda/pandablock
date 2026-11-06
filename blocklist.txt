@@ -3,3 +3,4 @@
 hltv.org##DIV[class="BZ4Bl4KkTN "]
 hltv.org##DIV[class="main-sidebar-container"]
 hltv.org##DIV[style="background-image"]
+https://www.hltv.org/img/^
