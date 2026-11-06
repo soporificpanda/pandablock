@@ -1,7 +1,7 @@
 ! Title: my supplement for vivaldi
 
 ||hltv.org##DIV[class="BZ4Bl4KkTN "]
-||hltv.org##DIV[class="main-sidebar-container"]
+||hltv.org##DIV[class="bg-sidebar"]
 ||hltv.org##DIV[class="TallWidgetBody"]
 ||hltv.org/img/*
 @@||img-cdn.hltv.org^$image
