@@ -6,3 +6,4 @@
 ||hltv.org/img/*
 @@||hltv.org/img/static/*
 @@||img-cdn.hltv.org^$image
+@@||resources.hltv.org^$image
