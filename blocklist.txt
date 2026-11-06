@@ -1,4 +1,5 @@
-! Title: my supplement for vivaldi
+!Title:         my supplement for vivaldi
+!Format:        adblockplus
 
 ||hltv.org##DIV[class="BZ4Bl4KkTN "]
 ||hltv.org##DIV[class="bg-sidebar"]
