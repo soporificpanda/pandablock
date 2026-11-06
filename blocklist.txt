@@ -2,5 +2,5 @@
 
 ||hltv.org##DIV[class="BZ4Bl4KkTN "]
 ||hltv.org##DIV[class="main-sidebar-container"]
-||hltv.org##DIV[style="background-image"]
+||hltv.org##DIV[class="TallWidgetBody"]
 ||hltv.org/img/zuJDUvOJ8Ua6hibsQvZjpO.png?ixlib=java-2.1.0&s=e8d708a98be36d0cdfd61b4ca519b082
