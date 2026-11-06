@@ -1,8 +1,8 @@
 !Title:         my supplement for vivaldi
 !Format:        adblockplus
 
-||hltv.org##DIV[class="BZ4Bl4KkTN "]
-||hltv.org##DIV[class="bg-sidebar"]
-||hltv.org##DIV[class="matchesTallWidget"]
-||hltv.org/img/*.png/^$~img.cdn.hltv.org|~resources.hltv.org
+||hltv.org##.BZ4Bl4KkTN 
+||hltv.org##.bg-sidebar
+||hltv.org##.matchesTallWidget
+||hltv.org/img/*.png/^$~img-cdn.hltv.org|~resources.hltv.org
 @@||hltv.org/img/static/*
