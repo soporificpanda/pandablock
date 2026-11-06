@@ -2,8 +2,6 @@
 
 ||hltv.org##DIV[class="BZ4Bl4KkTN "]
 ||hltv.org##DIV[class="bg-sidebar"]
-||hltv.org##DIV[class="TallWidgetBody"]
-||hltv.org/img/*
+||hltv.org##DIV[class="matchesTallWidget"]
+||hltv.org/img/*.png/^$~img.cdn.hltv.org|~resources.hltv.org
 @@||hltv.org/img/static/*
-@@||img-cdn.hltv.org^$image
-@@||resources.hltv.org^$image
