@@ -4,6 +4,7 @@
 ||hltv.org##.BZ4Bl4KkTN 
 ||hltv.org##.bg-sidebar
 ||hltv.org##.matchesTallWidget
+||hltv.org##.matchesTallWidget-reset
 ||hltv.org/img/*
 @@||img-cdn.hltv.org^
 @@||resources.hltv.org^
