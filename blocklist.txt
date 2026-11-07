@@ -1,5 +1,4 @@
 !Title:         my supplement for vivaldi
-!Format:        adblockplus
 
 hltv.org##.BZ4Bl4KkTN 
 hltv.org##.bg-sidebar
